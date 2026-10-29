@@ -1,0 +1,13 @@
+{
+  "validUser": {
+    "name": "Carlos Gonzaga",
+    "email": "carlos@mail.com",
+    "password": "senhaSegura123"
+  },
+  "invalidUser": {
+    "wrongPassword": {
+      "email": "carlos@mail.com",
+      "password": "senhaIncorreta123"
+    }
+  }
+}
